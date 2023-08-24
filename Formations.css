@@ -70,6 +70,38 @@ nav{
     padding: 20px 12px ;
     box-sizing: border-box;
   }
+  .rol h2{
+    font-size: 30px;
+    color: white;
+  }
+  .rol  p {
+    font-size: 20px;
+    color: white;
+  }
+  .cool h2{
+    font-size: 30px;
+    color:black;
+  }
+  .cool p{
+    font-size: 20px;
+    color: black;
+  }
+  .rol h2{
+    font-size: 20px;
+    color: white;
+  }
+  .rol p{
+    font-size: 20px;
+    color: white;
+  }
+  .col h2{
+    font-size: 30px;
+    color: black;
+  }
+  .col p{
+    font-size: 20px;
+    color: black;
+  }
   .rol img{
      width: 100%;
      border-radius: 10px;
